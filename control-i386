@@ -1,0 +1,6 @@
+Package: psx-undither
+Version: 1.0
+Maintainer: Alex Free
+Architecture: i386
+Homepage: https://alex-free.github.io/psx-undither
+Description:  Remove dithering in PSX games.

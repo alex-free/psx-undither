@@ -1,0 +1,3 @@
+[submodule "lib-ps-cd-id"]
+	path = lib-ps-cd-id
+	url = https://github.com/alex-free/lib-ps-cd-id
