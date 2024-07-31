@@ -19,7 +19,7 @@ LINUX_SPECIFIC_RELEASE_FILES=
 WINDOWS_SPECIFIC_RELEASE_FILES=
 
 # All dependencies required to build the software, to be installed when using deps-apt EzRe Makefile rule (For Debian/Ubuntu)
-BUILD_DEPENDS_APT=build-essential g++-multilib gcc-multilib mingw-w64-tools g++-mingw-w64code Makefile zip dpkg-dev
+BUILD_DEPENDS_APT=build-essential g++-multilib gcc-multilib mingw-w64-tools g++-mingw-w64 zip dpkg-dev
 # All dependencies required to build the software, to be installed when using deps-dnf EzRe Makefile rule (For Fedora/Red Hat)
 BUILD_DEPENDS_DNF=gcc g++ libstdc++-static.i686 glibc-static.i686 libstdc++-static.x86_64 mingw64-gcc mingw32-gcc mingw32-gcc-c++ mingw64-gcc-c++ zip
 
